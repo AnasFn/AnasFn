@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Anas here!
+#### I am a FullTime Flutter Developer
+![I am a FullTime Flutter Developer](https://images.pexels.com/photos/333850/pexels-photo-333850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<!--
-**AnasFn/AnasFn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: FLUTTER / JAVA / FIREBASE / JSON / PHP
+
+- 🔭 I’m currently working on a cool travel app. 
 
 Here are some ideas to get you started:
 
