@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">Flutter Developer</h3>
-- 👯 I’m looking to collaborate on **Flutter Project**
-- 💬 Ask me about **Flutter**
+<h3 align="center">Flutter And Backend Developer</h3>
+- 👯 I’m looking to collaborate on <strong>Flutter Project</strong><br>  
+- 💬 Ask me about <strong>Flutter</strong>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
