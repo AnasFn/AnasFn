@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">Flutter And Backend Developer</h3>
-- 🟢 Available for <strong>Flutter</strong> projects
+-🟢 I'm Available for <strong>Flutter</strong> projects
 
 
 
